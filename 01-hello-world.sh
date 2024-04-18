@@ -1,1 +1,3 @@
-this I don't want to push
+#!/bin/bash
+
+echo "hello, I am learning Devops"
